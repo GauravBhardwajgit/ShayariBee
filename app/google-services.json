@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970050905721",
+    "project_id": "shayaribee-5d7a6",
+    "storage_bucket": "shayaribee-5d7a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970050905721:android:3a8a191036e1688c4a56a8",
+        "android_client_info": {
+          "package_name": "com.programinati.majorproject.gauravbhardwaj.akanshakaushik.learnkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970050905721-l5jho06lnji4v4r14b8jajsf419gph87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0aS2wyJ7QIyyj9oNGs5QP-qGJUl4nwwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970050905721-l5jho06lnji4v4r14b8jajsf419gph87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
